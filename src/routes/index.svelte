@@ -27,7 +27,7 @@
 
 <style>
     body{
-        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../static/bg.jpg');
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://unsplash.com/photos/Dxi6KbpvUgA');
         background-size: cover;
         background-repeat: no-repeat;
         min-height:100vh;
